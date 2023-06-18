@@ -21,3 +21,5 @@ Now, all the emails have come to my Power BI. After that, you just select the fo
 • NB 2: In your workspace, click on the name of your report, for example, "TechnoEdge Sales Analysis Report" -> Settings -> Edit credentials (if you want to give permission to Power Base Service to access your email attachments only) and change it to private sign-in.
 
 The beauty of that, I haven't opened and downloaded any of those email attachments, and I copy-paste the data without using any coding language to combine it. It takes less than 15 minutes, and if I receive a new email, it will be automatically updated in my dashboard.
+
+linkdin link:https://www.linkedin.com/in/ankita-chaudhari-a1a64b23a/
